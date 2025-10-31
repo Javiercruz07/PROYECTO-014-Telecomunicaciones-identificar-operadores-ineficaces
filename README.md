@@ -1,3 +1,5 @@
+Optimización de Eficiencia Operativa en Call Centers (CallMeMaybe) — Analista/Implementador
+
 *Descripcion
 Lideré un análisis integral de eficiencia operativa para CallMeMaybe (telefonía virtual), integrando logs históricos de llamadas para identificar operadores ineficaces, cuantificar tasas de pérdida y estandarizar tiempos de atención. Construí métricas comparativas contra benchmarks de la industria (tasa de pérdida ≤5%, duración media 2:36, ocupación 75–85%) y generé un plan de acción en dos horizontes (30 y 90 días) con foco en intervención individual, balanceo de carga y estandarización de tiempos. El diagnóstico identificó 15% de llamadas perdidas (3x sobre benchmark), variabilidad de duración (1.9–6.8 min), y desbalance de volumen (76 vs 245 llamadas por agente), proponiendo mejoras con ROI esperado de 200% en 6 meses.
 
